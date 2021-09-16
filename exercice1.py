@@ -1,6 +1,7 @@
 def fizzBuzz(n):
     # TODO imprimer la chaine de caractère appropriée avec la fonction print().
-    #  Assigner ensuite la valeur à la variable resultat
+    #  Assigner ensuite la valeur à la variable resulta
+    #completer
 
 
     def fizzBuzz(n):
